@@ -1,5 +1,5 @@
 ![HTML 5 Logo](assets/html-5.png)
-# Learn BASH - *July 4, 2025*
+# Learn HTML - *July 4, 2025*
 
 ### What did I do today?
 
