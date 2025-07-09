@@ -1,7 +1,7 @@
-![HTNL Logo](Images/html.png)
+![HTML 5 Logo](assets/html-5.png)
 # Lean HTML - *June 30, 2025*
   
-### What I did today?
+### What did I do today?
 
 Today, I learned about
 
@@ -9,11 +9,13 @@ Today, I learned about
 
 - HTML Basics
 - HTML Body
-- HTML Tags `<html> <head> <title> <body> <h1> - <h6> <p>`
-- Attributes `img alt href class`
+- HTML Tags `<HTML>, <head>, <title>, <body>, <h1> - <h6>, <p>`
+- Attributes `img, alt, href, class`
 - Hyperlinks `<a href="web_link_here.com">`
-- Fonts Format `font-size: colour:`
+- Fonts Format `font-size:, color:`
 
-### What Difficulties did I face?
+### What Difficulties did I encounter?
 
-NO PROBLEM
+*Locating the images in img tag*
+#
+**Dive To The [Next Page](day-3.md) To Know More**
